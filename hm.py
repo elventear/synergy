@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python2.7
 
 # synergy -- mouse and keyboard sharing utility
 # Copyright (C) 2012 Bolton Software Ltd.
